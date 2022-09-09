@@ -1,4 +1,4 @@
-//função que roda onload no body 
+//função que roda onload no body...
 function body() {
     url();
 }
